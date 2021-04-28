@@ -74,3 +74,11 @@ Nest is [MIT licensed](LICENSE).
 
 need to see the permission to the script
 chmod +rx src/scripts/start-db.sh 
+
+
+github
+https://github.com/GauSim/nestjs-typeorm
+
+tutorial
+https://medium.com/@gausmann.simon/nestjs-typeorm-and-postgresql-full-example-development-and-project-setup-working-with-database-c1a2b1b11b8f
+
